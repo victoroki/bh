@@ -1,6 +1,6 @@
 # <div align="center">Airbnb Clone</div>
 
-#### <div align='center'>This is a landing page clone of airbnb.co.in.</div>
+#### <div align='center'>This is a landing page clone of airbnb.co.in</div>
 
 ## Technology Used 💻
 <ul>
