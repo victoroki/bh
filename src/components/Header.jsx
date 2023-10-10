@@ -22,11 +22,10 @@ function Header() {
     setAnchorEl(null);
   };
 
-  const [svgColor, setSvgColor] = new React.useState('#FF385C');
+ 
 
   $(window).on('scroll', function() {
     if ($(window).scrollTop() > 50) {
-      setSvgColor('#FF385C');
       $('.header').css({
         'background-color': '#fff',
         'box-shadow': '0 5px 10px rgba(0, 0, 0, 0.05)'
@@ -38,7 +37,6 @@ function Header() {
         'color': '#222'
       })
     } else {
-      setSvgColor('#FFFFFF');
       $('.header').css({
         'background-color': 'transparent',
         'box-shadow': 'none'
@@ -53,7 +51,6 @@ function Header() {
   })
   $(window).on('load', function() {
     if ($(window).scrollTop() > 50) {
-      setSvgColor('#FF385C');
       $('.header').css({
         'background-color': '#fff',
         'box-shadow': '0 5px 10px rgba(0, 0, 0, 0.05)'
@@ -65,7 +62,6 @@ function Header() {
         'color': '#222'
       })
     } else {
-      setSvgColor('#FFFFFF');
       $('.header').css({
         'background-color': 'transparent',
         'box-shadow': 'none'
