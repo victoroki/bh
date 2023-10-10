@@ -18,41 +18,41 @@ function Inspiration() {
             
             <Grid item xs={12} sm={6} lg={3}>
               <InspirationCard 
-                image="inspiration-1.webp" 
+                image="inspiration-1.jpeg" 
                 alt="Mussoorie" 
                 bg='#DE3151' 
-                title="Mussoorie" 
-                desc="223 kilometers away"
+                title="Diani" 
+                desc="contact Ronnie TK 0748302615"
               />
             </Grid>
 
             <Grid item xs={12} sm={6} lg={3}>
               <InspirationCard 
-                image="inspiration-2.webp" 
+                image="inspiration-2.jpeg" 
                 alt="Manali" 
                 bg='#CC2D4A' 
-                title="Manali" 
-                desc="405 kilometers away"
+                title="Roysambu" 
+                desc="contact Ronnie TK 0748302615"
               />
             </Grid>
 
             <Grid item xs={12} sm={6} lg={3}>
               <InspirationCard 
-                image="inspiration-3.webp" 
+                image="inspiration-3.jpeg" 
                 alt="Kasauli" 
                 bg='#D93B30' 
-                title="Kasauli" 
-                desc="257 kilometers away"
+                title="Nyali" 
+                desc="contact Ronnie TK 0748302615"
               />
             </Grid>
 
             <Grid item xs={12} sm={6} lg={3}>
               <InspirationCard 
-                image="inspiration-4.webp" 
+                image="inspiration-4.jpeg" 
                 alt="Haldwani" 
                 bg='#BC1A6E' 
-                title="Haldwani" 
-                desc="235 kilometers away"
+                title="Lang'ata" 
+                desc="contact Ronnie TK 0748302615"
               />
             </Grid>
             
